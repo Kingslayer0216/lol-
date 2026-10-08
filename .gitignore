@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+!.vscode/
+!.vscode/tasks.json
+
+!Program.cs
+!q4niel_rewrite_documented.cs
+!q4niel_rewrite.cs
